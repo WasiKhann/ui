@@ -34,6 +34,8 @@ This is ~~strike-through~~
 
 This is `code`
 
+#### Headers can also container `code`
+
 ### Link
 
 Here's a link to [Immich](https://immich.app/)
@@ -114,6 +116,22 @@ Now a nested list:
     - goto first step (or shut off burner when done)
 
     Do not bump wooden spoon or it will fall.
+
+## Tables
+
+| Name  | Power        | Level |
+| ----- | ------------ | ----- |
+| Mich  | Photography  | 9000  |
+| Alice | Cryptography | 4096  |
+| Body  | Hacking      | -1    |
+
+## Emojis via short codes
+
+```
+:heart: :unicorn: :tada:
+```
+
+:heart: :unicorn: :tada:
 
 ## Image
 
